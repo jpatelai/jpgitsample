@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="testsecondpage.aspx.cs" Inherits="testsecondpage" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="BranchTest.aspx.cs" Inherits="BranchTest" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -9,9 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    First change:
-	second change jp:4:12
-    Branch created checking file update on 6/29 2:05
+    
     </div>
     </form>
 </body>
