@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
     <div>
     test first page
+	test bhakti page edit
     </div>
     </form>
 </body>
